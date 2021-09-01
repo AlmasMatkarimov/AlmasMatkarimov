@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlmasMatkarimov, secondary school student from Kazakhstan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming and applications
+- 🌱 I’m currently learning programming and computing applications in bioinformatics, medicine, etc.
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me ...
 
